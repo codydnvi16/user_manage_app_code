@@ -2,16 +2,27 @@
 User Management System (PHP & MySQL)
 
 A simple and secure User Management System built with PHP, MySQL, and session-based authentication.
+
 Features
+
 User registration and login
+
 Password hashing for security
-Role-based access (Admin vs User)
+
+Role-based access (Admin vs User
+
 Admin dashboard to:
+
 View all users
-Delete users
+
+Delete 
+
 Change user roles
+
 Session management and URL protection
-Tech Stack
+
+Tech 
+
 PHP
 MySQL
 HTML/CSS (basic)
